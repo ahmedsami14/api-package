@@ -1,9 +1,9 @@
 # this package for api package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/api/api-package.svg?style=flat-square)](https://packagist.org/packages/api/api-package)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/api/api-package/run-tests?label=tests)](https://github.com/api/api-package/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/api/api-package/Fix%20PHP%20code%20style%20issues?label=code%20style)](https://github.com/api/api-package/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/api/api-package.svg?style=flat-square)](https://packagist.org/packages/api/api-package)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/wloop/api.svg?style=flat-square)](https://packagist.org/packages/wloop/api)
+[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/wloop/api/run-tests?label=tests)](https://github.com/wloop/api/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/wloop/api/Fix%20PHP%20code%20style%20issues?label=code%20style)](https://github.com/wloop/api/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/wloop/api.svg?style=flat-square)](https://packagist.org/packages/wloop/api)
 
 This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
 
@@ -20,7 +20,7 @@ We highly appreciate you sending us a postcard from your hometown, mentioning wh
 You can install the package via composer:
 
 ```bash
-composer require api/api-package
+composer require wloop/api
 ```
 
 You can publish and run the migrations with:

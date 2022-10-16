@@ -1,12 +1,12 @@
 {
-    "name": "api/api-package",
+    "name": "wloop/api",
     "description": "this package for api package",
     "keywords": [
         "api",
         "laravel",
         "api-package"
     ],
-    "homepage": "https://github.com/api/api-package",
+    "homepage": "https://github.com/wloop/api",
     "license": "MIT",
     "authors": [
         {
