@@ -2,9 +2,9 @@
 
 namespace api\ApiPackage;
 
+use api\ApiPackage\Commands\ApiPackageCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use api\ApiPackage\Commands\ApiPackageCommand;
 
 class ApiPackageServiceProvider extends PackageServiceProvider
 {

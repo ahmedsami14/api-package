@@ -2,9 +2,9 @@
 
 namespace api\ApiPackage\Tests;
 
+use api\ApiPackage\ApiPackageServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use api\ApiPackage\ApiPackageServiceProvider;
 
 class TestCase extends Orchestra
 {
